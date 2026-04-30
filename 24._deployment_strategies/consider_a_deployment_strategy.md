@@ -4,6 +4,8 @@
 
 **Motivation**: In your current setup, deploying would mean that your system is down while Docker restarts the containers. Consider a better deployment strategy.
 
+**Exam**: Should be used for the exam
+
 ---
 
 ## Agree on a deployment strategy
@@ -14,5 +16,5 @@ Consider how to improve the current setup to achieve high availability, fault to
 
 Feel free to bring this up during your exam presentation and be ready to answer what considerations informed your decision.
 
-**To be clear**: It is not expected that you implement this in your project.
+**To be clear**: It is not expected that you implement this in your project, but you should be able to talk about the topic and relate it to your project.
 
