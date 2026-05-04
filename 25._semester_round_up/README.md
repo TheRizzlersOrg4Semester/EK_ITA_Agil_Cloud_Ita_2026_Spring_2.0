@@ -22,4 +22,9 @@ The actual exam requirements you will get on the 19th of May, but it will be hea
 
 ## After Class
 
+Do this exercises together in your groups:
+
 * [Create a Project Checklist](create_a_project_checklist.md)
+
+Read this document to get a better idea idea about the exam and the exam project and report:
+* [Exam project requirements](exam_project_requirements.md)
