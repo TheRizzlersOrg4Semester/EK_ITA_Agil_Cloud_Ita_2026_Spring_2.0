@@ -9,24 +9,24 @@ Today we close out the semester. We look back at what we have covered, connect t
 ## Today's teachings
 
 We start by having a look at your: 
-* **monitoring Dashboards** 
+* **Monitoring Dashboards** 
 * and at your groups **Deployment strategy**.
  
 You are expected to show this at your exam, so it is a good idea to have it running and agred opon now.
 
 ### This semester
-We also sum up what we have covered in [this semesters teaching](semester_overview.md), and we point out what is connected to the overall topics: Agil Development, Cloud and It-Architechture. 
+We sum up what we have covered in [this semesters teaching](semester_overview.md).
 
-This will be a good checklist of what you should have included in your CookBook repository when you hand it in at Wiseflow.
+This will be a good checklist of what you should includ in your CookBook repository when you hand it in at Wiseflow.
 
-The actual exam requirements you will get on the 19th of May, but it will be heavily based on all what you did this semester. Therefore this walkthrough can be used as a checklist for what you need to include in your examproject handin. 
+The **actual exam requirements** you will get on the **20th of May**, but it will be heavily based on all what you did this semester. Therefore this walkthrough can be used as a checklist for what you need to include in your examproject handin. 
 
 #### Weekly DevOps Principle!
 * DevOps is culture.
 
 ## After Class
 
-Do this exercises together in your groups:
+Do this exercise together in your groups:
 
 * [Create a Project Checklist](create_a_project_checklist.md)
 
