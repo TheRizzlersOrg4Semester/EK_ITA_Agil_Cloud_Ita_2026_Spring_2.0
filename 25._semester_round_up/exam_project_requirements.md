@@ -5,8 +5,6 @@ This document is a to provide an overview of overall requirements without listin
 Besides your individual exams a substantial part of the grade will be based on your project work during the semester but this includes implementation of the DevOps principles into your work.
 
 ---
----
----
 
 # DevOps
 
