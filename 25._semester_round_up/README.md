@@ -8,9 +8,13 @@ Today we close out the semester. We look back at what we have covered, connect t
 
 ## Today's teachings
 
-We start by having a look at your monitoring Dashboards, and at your groups Deployment strategy. 
+We start by having a look at your: 
+* **monitoring Dashboards** 
+* and at your groups **Deployment strategy**.
+ 
 You are expected to show this at your exam, so it is a good idea to have it running and agred opon now.
 
+### This semester
 We also sum up what we have covered in [this semesters teaching](semester_overview.md), and we point out what is connected to the overall topics: Agil Development, Cloud and It-Architechture. 
 
 This will be a good checklist of what you should have included in your CookBook repository when you hand it in at Wiseflow.
