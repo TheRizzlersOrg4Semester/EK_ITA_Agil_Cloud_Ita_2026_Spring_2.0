@@ -41,8 +41,7 @@ However, these are the formalities that your report must include:
 - Table of contents 
 - A **Theory Section** description of the theory which you have based your work on in this class this semester, and especially which parts of the theory you have used and which you haven´t.
 - A **CI/CD pipeline** section, describing your ci/cd pipeline (please use diagrams in this section!).
-- A    
-
+- Links to your **GitHub repositories** and **live endpoints** (deployed application URLs).
 
 **Adwise**: Keep you report super precise. Do not use more words than nessesary!
 
